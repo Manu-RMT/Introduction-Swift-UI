@@ -26,14 +26,6 @@ struct ContentView: View {
         }.background(Color.green)
          .ignoresSafeArea(.all)
         
-        
-//        VStack {
-//            Image(systemName: "globe")
-//                .imageScale(.large)
-//                .foregroundColor(.accentColor)
-//            Text("Hello, world!")
-//        }
-//        .padding()
     }
 }
 
